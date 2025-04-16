@@ -1,0 +1,105 @@
+[
+  {
+    "_id": "67fe68ea5fdaa68ee53a11c0",
+    "course_title": "Full Stack Web Development with javaScript(MERN)",
+    "instructor": "Jhankar mahbub",
+    "price": 6000,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744735059/mern_stack_qoh3jo.jpg"
+  },
+  {
+    "_id": "67fe68ea18b200d61b3db93d",
+    "course_title": "Data Science & Machine Learning with Python",
+    "instructor": "Rashedul Alam Shakil",
+    "price": 10000,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744735350/machine_learning_m99phr.jpg"
+  },
+  {
+    "_id": "67fe68ea03df7541039f5c58",
+    "course_title": "WordPress Theme Development",
+    "instructor": "Oliver Landry",
+    "price": 4000,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744735769/wordpress_szscab.jpg"
+  },
+  {
+    "_id": "67fe68ea24fd65a4efa7be4a",
+    "course_title": "Mobile App Development with Flutter",
+    "instructor": "Boone Battle",
+    "price": 7200,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744735902/flutter_bqdlpc.jpg"
+  },
+  {
+    "_id": "67fe68ead6bb1911e75de808",
+    "course_title": "PHP with Laravel",
+    "instructor": "haisn haider",
+    "price": 8600,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744735954/php_laravel_bzppfk.png"
+  },
+  {
+    "_id": "67fe68eae0005a63873df4a1",
+    "course_title": "Mastering DevOps: From Fundamentals to Advanced Practices",
+    "instructor": "Rafaf Tahsin",
+    "price": 6900,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744736012/dev_ops_ii3azf.jpg"
+  },
+  {
+    "_id": "67fe68ea70e6f782b709371b",
+    "course_title": "Mathematics for Machine Learning and Data Science",
+    "instructor": "Rita Larsen",
+    "price": 5300,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744736086/math_for_ml_dl_aaztu7.png"
+  },
+  {
+    "_id": "67fe68eadbdf7dcd762db9ac",
+    "course_title": "Generative AI",
+    "instructor": "Nitish",
+    "price": 5700,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744736141/gen_ai_qn3elg.jpg"
+  },
+  {
+    "_id": "67fe68eaabdc17754f06d420",
+    "course_title": "Digital Marketing",
+    "instructor": "Russel A Kawser",
+    "price": 12000,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744736232/digital_marketing_fhztru.jpg"
+  },
+  {
+    "_id": "67fe68ea77b15ac839ae907c",
+    "course_title": "Blockchain Development",
+    "instructor": "Rashed Munshi",
+    "price": 4000,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744736341/blockchain_epyrbz.jpg"
+  },
+  {
+    "_id": "67fe68ea6bb7d2fcecc4a425",
+    "course_title": "Cyber Security & Ethical Hacking",
+    "instructor": "Dipto Dutta",
+    "price": 4200,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744736437/cyber_security_ymkvey.jpg"
+  },
+  {
+    "_id": "67fe68ea255619186685504b",
+    "course_title": "IELTS Preparation",
+    "instructor": "Munzereen Shahid",
+    "price": 3700,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744736617/ielts_ue4ibn.png"
+  },
+  {
+    "_id": "67fe68eabbcf7dc5b693a868",
+    "course_title": "Cloud Computing with AWS",
+    "instructor": "Sudipta Ghosh",
+    "price": 6000,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744736721/aws_aejjuh.png"
+  },  {
+    "_id": "67fe68eacd34n569o0347633",
+    "course_title": "C# Programming for Unity Game Development ",
+    "instructor": "Samin Sadman",
+    "price": 8000,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744738578/unity_auda8h.jpg"
+  },  {
+    "_id": "67fe68ebddcg7dc5b693a564",
+    "course_title": "GRE preparation",
+    "instructor": "Zihad Azad",
+    "price": 5000,
+    "img": "https://res.cloudinary.com/dkl8hgdxb/image/upload/v1744738581/gre_lz7wjx.png"
+  }
+]
